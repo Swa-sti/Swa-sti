@@ -7,7 +7,7 @@
 
 - 🌱 I’m working on projects related to **Statistics, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision**
 
-- 💪 I'm good at **Team Collaboration, Problem Solving, Decision Making and Analytical Skills**
+- 🌟 I'm good at **Team Collaboration, Problem Solving, Decision Making and Analytical Skills**
 
 - 📫 How to reach me **swastiroy03@gmail.com**
 
