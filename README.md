@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Swasti Saha Roy</h1>
 <h3 align="center">A passionate Data Scientist specializing in Machine Learning and Deep Learning</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*Owa2rsDG6Rwv1IM_RdsL3A.gif&tbnid=f2M4_djViv4UtM&vet=12ahUKEwiOmeSp76-BAxU7F1kFHdCMBFwQMygHegQIARBq..i&imgrefurl=https%3A%2F%2Fmedium.com%2Fedureka%2Fdata-science-vs-big-data-vs-data-analytics-4c1c20e2876b&docid=k0FdTPgTc2ZEeM&w=1000&h=700&q=gifs%20for%20data%20science&ved=2ahUKEwiOmeSp76-BAxU7F1kFHdCMBFwQMygHegQIARBq)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swa-sti&label=Profile%20views&color=0e75b6&style=flat" alt="swa-sti" /> </p>
 
