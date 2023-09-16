@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Swasti Saha Roy</h1>
 <h3 align="center">A passionate Data Scientist specializing in Machine Learning and Deep Learning</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6b/57/87/6b5787ff3501f9a45afdade14b9d48bd.gif">
+<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swa-sti&label=Profile%20views&color=0e75b6&style=flat" alt="swa-sti" /> </p>
 
