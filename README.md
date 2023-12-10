@@ -1,4 +1,4 @@
-![logo](https://github.com/Akashshiva/Akashshiva/blob/main/Banner.png)
+![logo](https://github.com/Swa-sti/Swa-sti/blob/main/Banner.png)
 
 <h1 align="center">Hello, I'm Swasti Saha Roy</h1>
 <h3 align="center">A passionate Data Scientist specializing in Machine Learning and Deep Learning</h3>
