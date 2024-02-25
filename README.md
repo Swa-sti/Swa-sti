@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swa-sti&label=Profile%20views&color=0e75b6&style=flat" alt="swa-sti" /> </p>
 
 - 🔭 I’m currently pursuing **Bachelor of Engineering in Computer Science with specialization in Artificial Intelligence and Machine Learning**
-
+  
 - 🌱 I’m working on projects related to **Statistics, Machine Learning, Deep Learning, Natural Language Processing and Computer Vision**
 
 - 🌟 I'm good at **Team Collaboration, Problem Solving, Decision Making and Analytical Skills**
